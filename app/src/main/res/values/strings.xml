@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Number Guessing Game</string>
+    <string name="title">Sayı Tahmin Oyunu</string>
+    <string name="your_guess">Tahmininiz</string>
+    <string name="guess">Tahmin Et</string>
+    <string name="please_enter_a_number">Lütfen Bir Sayı Giriniz</string>
+    <string name="try_smaller_number">Daha Küçük Bir Sayı Dene</string>
+    <string name="try_bigger_number">Daha Büyük Bir Sayı Dene</string>
+    <string name="congrats">Tebrikler, Bildiniz!!!</string>
+    <string name="your_score">Skorunuz:</string>
+</resources>
